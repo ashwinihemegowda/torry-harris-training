@@ -1,0 +1,11 @@
+integrating testing
+cred operations-manual testing
+product suggestions-manual testing
+upgrading a product-manual testing
+sorting and filtering-manual testing
+bulk ordering-manual testing
+permanent buying of models+premium membership-manual testing(top down approach)
+reminder message-automated testing
+security deposit-manual testin
+product notifications-automated
+
