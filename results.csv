@@ -1,0 +1,240 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1635409575820,1672,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6110,1808,1,1,null,0,321,0
+1635409576093,629,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,293,1,1,http://18.221.250.120:1080/Webtours/,628,0,352
+1635409576750,237,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,351,1,1,http://18.221.250.120:1080/Webtours/header.html,237,0,0
+1635409576990,290,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,362,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,287,0,0
+1635409577291,235,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,235,0,0
+1635409577530,281,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1755,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,277,0,0
+1635409577817,1081,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3595,1333,1,1,null,0,9,0
+1635409577818,296,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,691,578,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,291,0,0
+1635409578116,282,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,279,0,0
+1635409578402,503,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>ashu</b>, to the Web Tours reservation pages/",1155,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,499,0,230
+1635409578909,547,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2782,774,1,1,null,0,8,0
+1635409578910,272,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,271,0,0
+1635409579188,275,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,271,0,0
+1635409579466,1428,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6112,1892,1,1,null,0,30,0
+1635409579486,445,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,445,0,222
+1635409579933,223,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,222,0,0
+1635409580158,268,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,264,0,0
+1635409580429,223,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,223,0,0
+1635409580654,269,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,265,0,0
+1635409580926,811,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3596,1337,1,1,null,0,6,0
+1635409580927,271,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,693,582,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,267,0,0
+1635409581200,269,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,265,0,0
+1635409581471,271,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>chandu</b>, to the Web Tours reservation pages/",1154,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,267,0,0
+1635409581744,770,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2779,774,1,1,null,0,12,0
+1635409581745,495,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1026,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,491,0,225
+1635409582243,275,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1753,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,272,0,0
+1635409582528,1490,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6110,1892,1,1,null,0,15,0
+1635409582530,465,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,465,0,232
+1635409582999,233,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,233,0,0
+1635409583234,279,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,276,0,0
+1635409583516,234,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,233,0,0
+1635409583752,279,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1755,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,275,0,0
+1635409584034,1052,02_login,200,"Number of samples in transaction : 3, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,3751,1538,1,1,null,0,9,0
+1635409584035,281,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,843,579,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,278,0,0
+1635409584320,278,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,482,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,274,0,0
+1635409584600,493,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1159,477,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,487,0,222
+1635409585098,534,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2773,876,1,1,null,0,5,0
+1635409585100,266,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,494,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,262,0,0
+1635409585368,268,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1748,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,264,0,0
+1635409585638,1460,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6112,1892,1,1,null,0,13,0
+1635409585640,455,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,455,0,227
+1635409586097,228,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,228,0,0
+1635409586327,273,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,270,0,0
+1635409586604,229,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,229,0,0
+1635409586835,275,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,273,0,0
+1635409587112,1059,02_login,200,"Number of samples in transaction : 3, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,3749,1536,1,1,null,0,7,0
+1635409587113,278,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,842,579,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,274,0,0
+1635409587395,275,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,481,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,270,0,0
+1635409587672,506,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1158,476,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,502,0,228
+1635409588180,553,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2778,875,1,1,null,0,6,0
+1635409588181,273,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,493,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,270,0,0
+1635409588459,280,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1753,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,274,0,0
+1635409588747,1561,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6110,1892,1,1,null,0,12,0
+1635409588748,467,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,467,0,234
+1635409589217,246,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,246,0,0
+1635409589466,330,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,282,0,0
+1635409589798,238,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,238,0,0
+1635409590039,280,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1755,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,276,0,0
+1635409590326,1072,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3595,1333,1,1,null,0,4,0
+1635409590326,283,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,691,578,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,278,0,0
+1635409590611,282,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,278,0,0
+1635409590894,507,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>ashu</b>, to the Web Tours reservation pages/",1155,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,504,0,230
+1635409591404,554,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2776,774,1,1,null,0,6,0
+1635409591405,277,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,272,0,0
+1635409591685,277,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1751,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,273,0,0
+1635409591983,1478,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6111,1892,1,1,null,0,53,0
+1635409591984,447,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,447,0,223
+1635409592432,225,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,224,0,0
+1635409592660,312,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,305,0,0
+1635409592975,224,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,224,0,0
+1635409593201,270,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1756,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,270,0,0
+1635409593515,1198,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3597,1336,1,1,null,0,8,0
+1635409593515,350,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,693,581,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,341,0,0
+1635409593867,349,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,304,0,0
+1635409594218,499,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>chandu</b>, to the Web Tours reservation pages/",1155,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,497,0,225
+1635409594722,544,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2778,774,1,1,null,0,5,0
+1635409594724,273,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,268,0,0
+1635409594999,271,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1753,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,267,0,0
+1635409595279,1441,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6112,1892,1,1,null,0,11,0
+1635409595280,448,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,448,0,224
+1635409595730,224,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,224,0,0
+1635409595956,271,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,266,0,0
+1635409596229,227,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,227,0,0
+1635409596459,271,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,267,0,0
+1635409596732,1189,02_login,200,"Number of samples in transaction : 3, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,3751,1540,1,1,null,0,6,0
+1635409596733,329,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,843,581,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,301,0,0
+1635409597064,359,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,482,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,309,0,0
+1635409597425,501,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1159,477,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,497,0,227
+1635409597928,721,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2782,876,1,1,null,0,6,0
+1635409597929,360,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,494,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,267,0,0
+1635409598294,361,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,360,0,0
+1635409598684,1477,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6111,1892,1,1,null,0,21,0
+1635409598686,452,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,452,0,226
+1635409599141,227,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,227,0,0
+1635409599370,296,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,296,0,0
+1635409599669,228,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,228,0,0
+1635409599899,274,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1756,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,268,0,0
+1635409600182,1047,02_login,200,"Number of samples in transaction : 3, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,3749,1535,1,1,null,0,5,0
+1635409600183,277,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,842,578,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,272,0,0
+1635409600462,277,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,481,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,273,0,0
+1635409600740,493,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1158,476,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,488,0,222
+1635409601236,681,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2779,875,1,1,null,0,5,0
+1635409601237,322,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,493,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,313,0,0
+1635409601562,359,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1754,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,312,0,0
+1635409601926,1472,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6112,1892,1,1,null,0,61,0
+1635409601936,453,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,453,0,227
+1635409602391,228,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,228,0,0
+1635409602626,274,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,269,0,0
+1635409602902,228,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,228,0,0
+1635409603170,289,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,278,0,0
+1635409603460,1241,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3595,1335,1,1,null,0,4,0
+1635409603461,384,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,691,580,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,358,0,0
+1635409603847,357,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,347,0,0
+1635409604205,500,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>ashu</b>, to the Web Tours reservation pages/",1155,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,500,0,222
+1635409604706,544,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2782,774,1,1,null,0,3,0
+1635409604707,271,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,266,0,0
+1635409604980,273,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,264,0,0
+1635409605254,1467,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6108,1892,1,1,null,0,12,0
+1635409605255,453,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,453,0,227
+1635409605709,226,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,226,0,0
+1635409605937,282,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,278,0,0
+1635409606222,227,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,227,0,0
+1635409606450,279,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1753,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,274,0,0
+1635409606733,1155,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3597,1333,1,1,null,0,6,0
+1635409606733,274,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,693,578,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,270,0,0
+1635409607010,276,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,270,0,0
+1635409607288,605,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>chandu</b>, to the Web Tours reservation pages/",1155,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,512,0,231
+1635409607901,728,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2782,774,1,1,null,0,8,0
+1635409607903,377,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,364,0,0
+1635409608285,351,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,341,0,0
+1635409608642,1442,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6103,1892,1,1,null,0,21,0
+1635409608643,448,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,448,0,224
+1635409609104,224,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,224,0,0
+1635409609329,271,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,265,0,0
+1635409609602,225,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,225,0,0
+1635409609831,274,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1748,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,269,0,0
+1635409610108,1183,02_login,200,"Number of samples in transaction : 3, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,3751,1531,1,1,null,0,9,0
+1635409610110,339,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,843,572,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,291,0,0
+1635409610454,350,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,482,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,303,0,0
+1635409610807,494,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1159,477,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,488,0,222
+1635409611302,707,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2781,876,1,1,null,0,17,0
+1635409611303,358,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,494,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,264,0,0
+1635409611672,349,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1756,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,342,0,0
+1635409612026,1496,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6108,1892,1,1,null,0,13,0
+1635409612028,448,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,448,0,222
+1635409612477,223,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,223,0,0
+1635409612705,333,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,323,0,0
+1635409613041,223,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,223,0,0
+1635409613265,269,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1753,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,265,0,0
+1635409613535,1082,02_login,200,"Number of samples in transaction : 3, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,3749,1532,1,1,null,0,5,0
+1635409613536,272,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,842,575,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,267,0,0
+1635409613810,299,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,481,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,294,0,0
+1635409614110,511,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1158,476,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,506,0,232
+1635409614622,601,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2782,875,1,1,null,0,12,0
+1635409614623,283,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,493,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,276,0,0
+1635409614917,318,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,288,0,0
+1635409615238,1473,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6112,1892,1,1,null,0,18,0
+1635409615239,458,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,458,0,229
+1635409615698,234,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,233,0,0
+1635409615935,275,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,271,0,0
+1635409616218,229,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,229,0,0
+1635409616451,277,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,272,0,0
+1635409616729,1080,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3595,1335,1,1,null,0,15,0
+1635409616730,277,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,691,580,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,272,0,0
+1635409617010,277,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,273,0,0
+1635409617289,526,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>ashu</b>, to the Web Tours reservation pages/",1155,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,521,0,233
+1635409617825,602,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2780,774,1,1,null,0,8,0
+1635409617826,323,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,277,0,0
+1635409618156,279,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1755,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,274,0,0
+1635409618436,1582,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6109,1892,1,1,null,0,9,0
+1635409618437,480,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,480,0,225
+1635409618919,227,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,227,0,0
+1635409619147,301,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,294,0,0
+1635409619450,225,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,225,0,0
+1635409619677,349,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1754,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,282,0,0
+1635409620028,1219,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3597,1334,1,1,null,0,4,0
+1635409620028,356,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,693,579,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,303,0,0
+1635409620385,371,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,306,0,0
+1635409620760,492,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>chandu</b>, to the Web Tours reservation pages/",1155,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,489,0,222
+1635409621253,537,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2774,774,1,1,null,0,5,0
+1635409621255,269,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,265,0,0
+1635409621526,268,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,264,0,0
+1635409621795,1426,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6112,1892,1,1,null,0,9,0
+1635409621796,444,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,444,0,222
+1635409622241,222,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,222,0,0
+1635409622466,271,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,267,0,0
+1635409622739,222,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,222,0,0
+1635409622963,267,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1757,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,262,0,0
+1635409623235,1049,02_login,200,"Number of samples in transaction : 3, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,3751,1540,1,1,null,0,5,0
+1635409623236,270,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,843,581,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,265,0,0
+1635409623508,285,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,482,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,281,0,0
+1635409623795,494,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1159,477,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,490,0,223
+1635409624291,558,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2778,876,1,1,null,0,2,0
+1635409624292,287,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,494,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,263,0,0
+1635409624580,271,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1753,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,265,0,0
+1635409624852,1472,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6110,1892,1,1,null,0,21,0
+1635409624853,478,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,478,0,224
+1635409625333,225,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,225,0,0
+1635409625560,271,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,267,0,0
+1635409625844,226,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,226,0,0
+1635409626072,272,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1755,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,268,0,0
+1635409626345,1041,02_login,200,"Number of samples in transaction : 3, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,3749,1534,1,1,null,0,13,0
+1635409626346,273,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,842,577,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,268,0,0
+1635409626620,272,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,481,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,268,0,0
+1635409626893,496,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1158,476,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,492,0,223
+1635409627400,538,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2776,875,1,1,null,0,4,0
+1635409627401,269,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,493,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,265,0,0
+1635409627672,269,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1751,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,265,0,0
+1635409627947,1430,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6111,1892,1,1,null,0,10,0
+1635409627948,451,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,451,0,221
+1635409628400,222,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,222,0,0
+1635409628626,266,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,262,0,0
+1635409628894,222,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,222,0,0
+1635409629117,269,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1756,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,264,0,0
+1635409629388,810,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3594,1334,1,1,null,0,3,0
+1635409629388,271,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,691,579,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,267,0,0
+1635409629661,267,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,266,0,0
+1635409629929,272,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>ashu</b>, to the Web Tours reservation pages/",1154,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,267,0,0
+1635409630202,904,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2779,774,1,1,null,0,2,0
+1635409630202,551,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1026,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,506,0,231
+1635409630754,353,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1753,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,344,0,0
+1635409631112,1466,01_launch,200,"Number of samples in transaction : 5, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,6111,1892,1,1,null,0,10,0
+1635409631114,449,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,449,0,225
+1635409631565,225,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,225,0,0
+1635409631791,271,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,267,0,0
+1635409632064,225,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,225,0,0
+1635409632290,296,85 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1756,403,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,296,0,0
+1635409632588,1254,02_login,200,"Number of samples in transaction : 3, number of failing samples : 1",jp@gc - Ultimate Thread Group 1-1,,false,,3597,1336,1,1,null,0,6,0
+1635409632589,370,89 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,693,581,1,1,http://18.221.250.120:1080/cgi-bin/login.pl,360,0,0
+1635409632960,379,90 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1749,380,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?page=menu&in=home,314,0,0
+1635409633343,505,91 login,200,OK,jp@gc - Ultimate Thread Group 1-1,text,false,"Test failed: text expected to contain /Welcome, <b>chandu</b>, to the Web Tours reservation pages/",1155,375,1,1,http://18.221.250.120:1080/cgi-bin/login.pl?intro=true,500,0,229
+1635409633849,552,03_signoff,200,"Number of samples in transaction : 2, number of failing samples : 0",jp@gc - Ultimate Thread Group 1-1,,true,,2770,774,1,1,null,0,2,0
+1635409633849,276,96 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,392,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=1,271,0,0
+1635409634127,276,97 signoff,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1745,382,1,1,http://18.221.250.120:1080/cgi-bin/nav.pl?in=home,271,0,0
+1635409634404,1263,01_launch,200,,jp@gc - Ultimate Thread Group 1-1,,true,,4355,1489,1,1,null,0,0,0
+1635409634405,444,80 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,664,321,1,1,http://18.221.250.120:1080/Webtours/,444,0,221
+1635409634851,225,81 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1007,379,1,1,http://18.221.250.120:1080/Webtours/header.html,223,0,0
+1635409635079,357,82 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1025,390,1,1,http://18.221.250.120:1080/cgi-bin/welcome.pl?signOff=true,270,0,0
+1635409635442,225,86 launch,200,OK,jp@gc - Ultimate Thread Group 1-1,text,true,,1659,399,1,1,http://18.221.250.120:1080/WebTours/home.html,225,0,0
